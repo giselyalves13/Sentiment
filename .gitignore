@@ -1,0 +1,6 @@
+SO/=1.0.3
+SO/__pycache__
+SO/config.py
+lstm/.ipynb_checkpoints
+*.json
+*.png
